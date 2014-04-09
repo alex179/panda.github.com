@@ -1,0 +1,38 @@
+
+#网站设置 详细https://github.com/mojombo/jekyll/wiki/configuration
+markdown:         rdiscount
+pygments:         true
+paginate:         4
+#permalink: /:year/:month/:day/:title
+permalink:        /post/:title.html
+
+title:            Panda
+url:              
+prod_url:         http://52ted.com
+feed:             atom.xml
+author:
+    name:         Panda
+    email:        kimlyfly@kimlyfly.me
+
+follow:
+    email:        kimlyfly@henter.me
+    github:       https://github.com/kimly
+    twitter:      https://www.twitter.com/kimlyfly
+
+
+indexContent:     true
+
+
+keywords:         "Panda个人博客"
+description:      "Panda's personal site, focus on the web."
+
+blogName:         Panda
+blogDesc:         <br />Chengdu, China
+favicon:          favicon.ico
+theme:            henter-diandian
+
+disqus:           panda
+
+copyright:        Copyright © 2008-2013 Panda All rights reserved.
+
+music:            http://a.libdd.com/farm1/19/53EAEE74712880DBF40B0A7915561C13.mp3
